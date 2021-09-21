@@ -1,1 +1,36 @@
-123 code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    
+  
+        
+     
+            <div id="ins" >
+
+                
+                    <p id="plasmi">Plasma(India)</p>
+                        <div id="ll">
+                           
+                                <a target="blank" href="https://dhoondh.com/"><button class="psite">Dhoondh.com</button></a>
+                                <a target="blank" href="http://friends2support.org/index.aspx"><button  class="psite">friends2support.org</button></a>
+                                <a target="blank" href="https://docs.google.com/spreadsheets/d/1LNDKVf_ooHg07klEmy0K6vFJTY-9CvU6ZEc0bkVnUB8/edit#gid=0"><button  class="psite">Get Oxygen Database</button></a>
+                       
+                     
+            </div>
+                   
+
+              
+                
+            
+        </div>
+  
+
+</body>
+</html>
